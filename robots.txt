@@ -1,0 +1,6 @@
+# Allow all search engines to index this resume
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://bryan-resume.azurestaticapps.net/sitemap.xml

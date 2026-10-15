@@ -1,0 +1,15 @@
+# Static Web Apps
+.vscode/
+.DS_Store
+*.log
+
+# Build outputs
+dist/
+output/
+
+# Environment files
+.env
+.env.local
+
+# Azure
+.azure/
